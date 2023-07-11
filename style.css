@@ -1,3 +1,85 @@
-h3{
-    color: aqua;
+.button1{
+    border-radius: 5px;
+    background-color: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.em{
+    border-radius: 5px;
+    background-color: rgba(225, 225, 225, 0.527);
+    border: 5;
+    color: white;
+    font-size: medium;
+    padding: 15px 200px;
+    box-sizing: content-box;
+}
+.pic-1{
+    width: 630px;
+    height: 800px;
+
+}
+
+.lets{
+    font-family: lato;
+    font-size: 40px;
+}
+
+.header{
+    background-color: rgba(255, 188, 188, 0.612);
+}
+
+/* footer */
+.shop{
+    color:#E55473;
+    font-family: lato;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(94, 90, 90, 0.553);
+    padding: 40px;
+    text-align: center;
+}
+
+.footer-content{
+    max-width: 800px;
+    margin: auto;
+}
+
+.footer-content p{
+    color: #1e1c1c;
+    font-family: lato;
+}
+
+.s{
+    text-align: center;
+    font-family: lato
+}
+.ss{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: lato;
+}
+
+.div{
+    background-color: #e5547325;
+}
+.bl{
+    display: inline;
+}
+.font-x{
+    text-align: center;
+    font-family: lato;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    /* margin-right: auto; */
+    width: 400px;
 }
